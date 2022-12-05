@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Charles has a beautiful cat and comb' | tr -d 'Cc'
+tr 'Cc'
