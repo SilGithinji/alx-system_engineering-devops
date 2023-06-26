@@ -1,2 +1,0 @@
-#!/bin/bash
-echo 'Chatting is allowed in the chat room' | tr -d 'Cc'
