@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""It counts words in all hot posts of a given Reddit subreddit"""
+""" A function to count words in all hot posts of a given Reddit subreddit."""
 import requests
 
 
